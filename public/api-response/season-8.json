@@ -1,0 +1,50 @@
+{
+    "Title": "Game of Thrones",
+    "Season": "8",
+    "totalSeasons": "8",
+    "Episodes": [
+        {
+            "Title": "Winterfell",
+            "Released": "2019-04-14",
+            "Episode": "1",
+            "imdbRating": "7.6",
+            "imdbID": "tt5924366"
+        },
+        {
+            "Title": "A Knight of the Seven Kingdoms",
+            "Released": "2019-04-21",
+            "Episode": "2",
+            "imdbRating": "7.9",
+            "imdbID": "tt6027908"
+        },
+        {
+            "Title": "The Long Night",
+            "Released": "2019-04-28",
+            "Episode": "3",
+            "imdbRating": "7.5",
+            "imdbID": "tt6027912"
+        },
+        {
+            "Title": "The Last of the Starks",
+            "Released": "2019-05-05",
+            "Episode": "4",
+            "imdbRating": "5.5",
+            "imdbID": "tt6027914"
+        },
+        {
+            "Title": "The Bells",
+            "Released": "2019-05-12",
+            "Episode": "5",
+            "imdbRating": "5.9",
+            "imdbID": "tt6027916"
+        },
+        {
+            "Title": "The Iron Throne",
+            "Released": "2019-05-19",
+            "Episode": "6",
+            "imdbRating": "4.0",
+            "imdbID": "tt6027920"
+        }
+    ],
+    "Response": "True"
+}
